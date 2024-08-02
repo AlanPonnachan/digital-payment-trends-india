@@ -33,16 +33,16 @@ This project aims to analyze the trends in digital payments and assess the state
 ## Exploratory Data Analysis
 
 1. **ATM Deployment by Region:**
-![ATM Deployment by Region](images/atm_deployment by region.png)
+![ATM Deployment by Region](images/atm_deployment_by_region.png)
 
 2. **Digital Payment Trends in 2023:**
-![Digital Payment Trends in 2023](images/digital trends 2023.png)
+![Digital Payment Trends in 2023](images/digital_payment_trend.png)
 
 3. **PMJDY Beneficiaries at Rural/Semi-Urban:**
-![PMJDY Beneficiaries at Rural/Semi-Urban](images/pmjdy benefi.png)
+![PMJDY Beneficiaries at Rural/Semi-Urban](images/pmjdy_beneficiaries.png)
 
 4. **Percentage of Population with Bank Accounts in India Over Time:**
-![Percentage of Population with Bank Accounts in India Over Time:](images/per of population with bank accounts.png)
+![Percentage of Population with Bank Accounts in India Over Time:](images/percentage_accounts.png)
 
 
 ## Insights and Conclusions
