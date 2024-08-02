@@ -4,6 +4,8 @@
 
 This project aims to analyze the trends in digital payments and assess the state of financial inclusion in rural India. Using various datasets, including ATM deployment data, digital payment transaction data, PMJDY beneficiary data and Global Findex Database,  seek to uncover patterns, correlations, and actionable insights to improve financial inclusion.
 
+![title](images/title.jpeg)
+
 ## Objectives
 
 1. **Analyze Trends in Digital Payments:**
